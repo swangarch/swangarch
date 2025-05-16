@@ -109,7 +109,7 @@ h2 {
 }
 
 .project-block {
-    opacity: 0.3;
+    opacity: 0.6;
     margin: 5% 5% 5% 5%;
     transition: all 0.2s ease-in-out;
 }
