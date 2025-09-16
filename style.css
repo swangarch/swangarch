@@ -118,6 +118,10 @@ h2 {
     opacity: 1;
 }
 
+.project-block:hover h2{
+    color: rgb(205, 118, 60);
+}
+
 .container {
     display: grid;
     grid-template-columns: 33% 33% 33%;
