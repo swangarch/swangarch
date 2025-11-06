@@ -68,7 +68,8 @@ My interests include:
 | Project | Description |
 |----------|-------------|
 | [Zero2ML — Series of Machine learning projects](https://github.com/swangarch/zero2ml) | A collection of hands-on exercises designed to build machine learning skills from scratch — covering supervised learning, unsupervised learning, feature engineering, and model evaluation. |
-| [Convolutional Neural Network](https://github.com/swangarch/convolutional_neural_network) | Implemented a CNN from scratch with Pytorch — tested on multiple datasets |
+| [Learn2Slither](https://github.com/swangarch/learn2slither) | A reinforcement learning project implementing a Deep Q-Network (DQN) from scratch to autonomously play the Snake game. |
+| [Convolutional Neural Network](https://github.com/swangarch/convolutional_neural_network) | Implemented a CNN with Pytorch — tested on multiple datasets |
 | [Multilayer Perceptron](https://github.com/swangarch/multilayer_perceptron) | Built a fully-connected neural network from scratch using only Numpy — implemented feedforward, backpropagation, and gradient descent. |
 | [Logistic Regression & Data Science](https://github.com/swangarch/DSLR) | Implemented binary classification with one-vs-all strategy using logistic regression — explored sigmoid, cross-entropy loss, and decision boundaries |
 | [Linear Regression](https://github.com/swangarch/linear_regression) | Implemented linear regression for numerical prediction tasks — focused on model fitting, loss function, and gradient descent concepts. |
