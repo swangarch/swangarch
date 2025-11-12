@@ -51,29 +51,30 @@ My interests include:
 
 ### Software developpement:
 
-| Project | Description |
-|----------|-------------|
-| [Transcendence](https://github.com/swangarch/42transcendence) | Full-stack multiplayer web Pong game. Built with microservices, WebSocket, secure auth, and 3D rendering with Babylon.js |
-| [Webserv](https://github.com/swangarch/42webserv) | Lightweight HTTP server built from scratch: socket programming, HTTP parsing, CGI support |
-| Inception | Containerized environment setup with Docker Compose — NGINX, WordPress, and MariaDB |
-| Net practice | Interactive networking exercise — simulating IP addressing and routing logic |
-| [Cub3D](https://github.com/swangarch/cub3d) | 3D raycasting engine (Wolfenstein-style) — rendering 3D environments using 2D projection |
-| [minishell](https://github.com/swangarch/minishell) | A Unix-like shell: command parsing, built-ins, process management, redirections, signals |
-| [Philosopher](https://github.com/swangarch/philo) | Dining philosophers simulation — multithreading, synchronization, and deadlock prevention |
-| [so_long](https://github.com/swangarch/so_long) | 2D maze game built with MiniLibX — focuses on movement, collision, and map logic |
-| [push_swap](https://github.com/swangarch/push_swap) | Algorithm challenge — sorting a stack with the minimum number of operations |
+| Project | language| Description |
+|----------|--|-------------|
+| [Transcendence](https://github.com/swangarch/42transcendence) | Typescript |Full-stack multiplayer web Pong game. Built with microservices, WebSocket, secure auth, and 3D rendering with Babylon.js |
+| [Webserv](https://github.com/swangarch/42webserv) | C++| Lightweight HTTP server built from scratch: socket programming, HTTP parsing, CGI support |
+| Inception | Dockerfile, shell | Containerized environment setup with Docker Compose — NGINX, WordPress, and MariaDB |
+| Net practice || Interactive networking exercise — simulating IP addressing and routing logic |
+| [Cub3D](https://github.com/swangarch/cub3d) |C| 3D raycasting engine (Wolfenstein-style) — rendering 3D environments using 2D projection |
+| [minishell](https://github.com/swangarch/minishell) |C| A Unix-like shell: command parsing, built-ins, process management, redirections, signals |
+| [Philosopher](https://github.com/swangarch/philo) |C| Dining philosophers simulation — multithreading, synchronization, and deadlock prevention |
+| [so_long](https://github.com/swangarch/so_long) |C| 2D maze game built with MiniLibX — focuses on movement, collision, and map logic |
+| [push_swap](https://github.com/swangarch/push_swap) |C| Algorithm challenge — sorting a stack with the minimum number of operations |
 
 ### AI & Machine learning
 
-| Project | Description |
-|----------|-------------|
-| [Zero2ML — Series of Machine learning projects](https://github.com/swangarch/zero2ml) | A collection of hands-on exercises designed to build machine learning skills from scratch — covering supervised learning, unsupervised learning, feature engineering, and model evaluation. |
-| [Learn2Slither](https://github.com/swangarch/learn2slither) | A reinforcement learning project implementing a Deep Q-Network (DQN) from scratch to autonomously play the Snake game. |
-| [Convolutional Neural Network](https://github.com/swangarch/convolutional_neural_network) | Implemented a CNN with Pytorch — tested on multiple datasets |
-| [Multilayer Perceptron](https://github.com/swangarch/multilayer_perceptron) | Built a fully-connected neural network from scratch using only Numpy — implemented feedforward, backpropagation, and gradient descent. |
-| [Logistic Regression & Data Science](https://github.com/swangarch/DSLR) | Implemented binary classification with one-vs-all strategy using logistic regression — explored sigmoid, cross-entropy loss, and decision boundaries |
-| [Linear Regression](https://github.com/swangarch/linear_regression) | Implemented linear regression for numerical prediction tasks — focused on model fitting, loss function, and gradient descent concepts. |
-| [Piscine python for data science](https://github.com/swangarch/python_piscine) | Python foundation for data science, including basic syntax, Numpy, Matplotlib and Pandas|
+| Project |language| Description |
+|----------|-------------|-------------|
+| [Zero2ML — Series of Machine learning projects](https://github.com/swangarch/zero2ml) |Python| A collection of hands-on exercises designed to build machine learning skills from scratch — covering supervised learning, unsupervised learning, feature engineering, and model evaluation. |
+| [Learn2Slither](https://github.com/swangarch/learn2slither) |Python| A reinforcement learning project implementing a Deep Q-Network (DQN) from scratch to autonomously play the Snake game. |
+| [Leaffliction](https://github.com/swangarch/leaffliction) |Python| A computer vision project using CNNs to identify leaf diseases across two species and eight disease types, achieving 98% accuracy for early detection in precision agriculture. |
+| [Convolutional Neural Network](https://github.com/swangarch/convolutional_neural_network) |Python| Implemented a CNN with Pytorch — tested on multiple datasets |
+| [Multilayer Perceptron](https://github.com/swangarch/multilayer_perceptron) |Python| Built a fully-connected neural network from scratch using only Numpy — implemented feedforward, backpropagation, and gradient descent. |
+| [Logistic Regression & Data Science](https://github.com/swangarch/DSLR) |Python| Implemented binary classification with one-vs-all strategy using logistic regression — explored sigmoid, cross-entropy loss, and decision boundaries |
+| [Linear Regression](https://github.com/swangarch/linear_regression) |Rust| Implemented linear regression for numerical prediction tasks — focused on model fitting, loss function, and gradient descent concepts. |
+| [Piscine python for data science](https://github.com/swangarch/python_piscine) |Python| Python foundation for data science, including basic syntax, Numpy, Matplotlib and Pandas|
 
 
 ## Certifications
