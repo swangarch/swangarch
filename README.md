@@ -6,10 +6,9 @@ Former architect turned software developer. Currently, I’m studying at **Écol
 
 My interests include:
 - **Full stack web developement**
-- **Systems & Networking**
 - **Data & Machine Learning**
-- **Real-time Rendering**
 - **Software Architecture**
+- **Systems & Networking**
 ---
 
 ## Tech Stack
@@ -69,7 +68,7 @@ My interests include:
 |----------|-------------|-------------|
 | [Zero2ML — Series of Machine learning projects](https://github.com/swangarch/zero2ml) |Python| A collection of hands-on exercises designed to build machine learning skills from scratch — covering supervised learning, unsupervised learning, feature engineering, and model evaluation. |
 | [Learn2Slither](https://github.com/swangarch/learn2slither) |Python| A reinforcement learning project implementing a Deep Q-Network (DQN) from scratch to autonomously play the Snake game. |
-| [Leaffliction](https://github.com/swangarch/leaffliction) |Python| A computer vision project using CNNs to identify leaf diseases across two species and eight disease types, achieving 98% accuracy for early detection in precision agriculture. |
+| [Leaffliction](https://github.com/swangarch/leaffliction) |Python| A computer vision project using CNNs to identify leaf diseases across two species and eight disease types, achieving 95-98% accuracy for early detection in precision agriculture. |
 | [Convolutional Neural Network](https://github.com/swangarch/convolutional_neural_network) |Python| Implemented a CNN with Pytorch — tested on multiple datasets |
 | [Multilayer Perceptron](https://github.com/swangarch/multilayer_perceptron) |Python| Built a fully-connected neural network from scratch using only Numpy — implemented feedforward, backpropagation, and gradient descent. |
 | [Logistic Regression & Data Science](https://github.com/swangarch/DSLR) |Python| Implemented binary classification with one-vs-all strategy using logistic regression — explored sigmoid, cross-entropy loss, and decision boundaries |
