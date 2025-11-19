@@ -129,11 +129,6 @@ h2 {
 
 .project-block:hover {
     opacity: 1;
-
-    /* border-style: dashed;
-    border-color: #000000;
-    border-radius: 10px;
-    transform: translateY(-3px); */
 }
 
 .project-block:hover h2{
@@ -323,6 +318,17 @@ i {
 }
 
 
+.project-icon {
+    /* display: inline-flex;            */
+    justify-content: center;
+    align-items: center;
+    width: 50px;                   
+    height: 50px;
+    text-decoration: none;
+    color: white;            
+    font-size: 1.2rem;
+    /* margin-right: -15px; */
+}
 
 .project-icon, 
 .text-container a {
