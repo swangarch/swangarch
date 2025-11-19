@@ -66,7 +66,20 @@ h2 {
     color: #000000;
     font-family:  'SulphurPoint-Bold', sans-serif;
     font-size: clamp(0.7rem, 4.5vw, 1.8rem);
+    font-weight: 900; 
 }
+
+.text-subtitle {
+    text-align: left;
+    width: 100%;
+    margin: 0% 0% 3% 0%;
+    margin-bottom: 5px;
+    color: #000000;
+    font-family:  'Urbanist-VariableFont_wght', sans-serif;
+    font-size: clamp(0.4rem, 2.5vw, 1.2rem);
+    font-weight: 200;
+}
+
 
 .main-image {
     width: 95%;
@@ -109,13 +122,18 @@ h2 {
 }
 
 .project-block {
-    opacity: 0.6;
+    opacity: 0.3;
     margin: 5% 5% 5% 5%;
     transition: all 0.2s ease-in-out;
 }
 
 .project-block:hover {
     opacity: 1;
+
+    /* border-style: dashed;
+    border-color: #000000;
+    border-radius: 10px;
+    transform: translateY(-3px); */
 }
 
 .project-block:hover h2{
@@ -132,8 +150,9 @@ h2 {
     width: 100%;
     height: auto;
     border-radius: 10px;
-    transition: all 0.2s ease-in-out;
+    transition: all 0.5s ease-in-out;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 3px solid transparent;
     opacity: 1;
 }
 
@@ -142,6 +161,8 @@ h2 {
     transform: scale(1.04);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
     opacity: 1;
+
+    border: 3px solid rgb(205, 118, 60);
 }
 
 .container h2 {
@@ -290,4 +311,34 @@ form:hover {
 .form-row button:hover {
     background-color: #cd763c;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+i {
+    font-size: 16px;
+    color: white;
+    background: black;
+    padding: 2px 8px;
+    border-radius: 6px;
+    transition: 0.2s;
+}
+
+
+
+.project-icon, 
+.text-container a {
+    text-decoration: none;
+}
+
+.project-icon .fa-github {
+    background-color: black;
+}
+.project-icon .fa-play {
+    background-color: rgb(245, 181, 62);
+}
+.project-icon .fa-youtube {
+    background-color: rgb(235, 85, 85);
+}
+
+.project-icon .fa-linkedin {
+    background-color: rgb(63, 163, 251);
 }
