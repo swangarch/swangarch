@@ -65,7 +65,7 @@ My interests include:
 | Project |language| Description |
 |----------|-------------|-------------|
 | [Learn2Slither](https://github.com/swangarch/learn2slither) |Python| A reinforcement learning project implementing a Deep Q-Network (DQN) from scratch to autonomously play the Snake game. |
-|[TotalPerspectiveVortex](https://github.com/swangarch/total-perspective-vortex)|Python| An interface based on EEG data with the help of machine learning algorithms, to redict brain activity.
+|[TotalPerspectiveVortex](https://github.com/swangarch/total-perspective-vortex)|Python| An interface based on EEG data with the help of machine learning algorithms, to predict brain activity.
 | [Leaffliction](https://github.com/swangarch/leaffliction) |Python| A computer vision project using CNNs to identify leaf diseases across two species and eight disease types, achieving 95-98% accuracy for early detection in precision agriculture. |
 | [NanoAgent-CLI](https://github.com/swangarch/nanoAgent-CLI) |Python| A minimalist Command Line Interface coding agent in less than 100 lines of python code. |
 | [Convolutional Neural Network](https://github.com/swangarch/convolutional_neural_network) |Python| Implemented a CNN with Pytorch — tested on multiple datasets |
