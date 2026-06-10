@@ -52,6 +52,7 @@ My interests include:
 |----------|--|-------------|
 | [Transcendence](https://github.com/swangarch/42transcendence) | Typescript |Full-stack multiplayer web Pong game. Built with microservices, WebSocket, secure auth, and 3D rendering with Babylon.js |
 | [Webserv](https://github.com/swangarch/42webserv) | C++| Lightweight HTTP server built from scratch: socket programming, HTTP parsing, CGI support |
+|[Inception-of-things](https://github.com/swangarch/inception-of-things)|bash, vagrantfile, yml|A project exploring Kubernetes fundamentals with Vagrant, K3s, K3d, and ArgoCD.|
 | Inception | Dockerfile, shell | Containerized environment setup with Docker Compose — NGINX, WordPress, and MariaDB |
 | Net practice || Interactive networking exercise — simulating IP addressing and routing logic |
 | [Cub3D](https://github.com/swangarch/cub3d) |C| 3D raycasting engine (Wolfenstein-style) — rendering 3D environments using 2D projection |
