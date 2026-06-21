@@ -65,6 +65,7 @@ My interests include:
 
 | Project |language| Description |
 |----------|-------------|-------------|
+| [llminfer.np](https://github.com/swangarch/llminfer.np) |Python| A small LLM inference engine written from scrath with Python and Numpy, supporting safetensors. |
 | [Learn2Slither](https://github.com/swangarch/learn2slither) |Python| A reinforcement learning project implementing a Deep Q-Network (DQN) from scratch to autonomously play the Snake game. |
 |[TotalPerspectiveVortex](https://github.com/swangarch/total-perspective-vortex)|Python| An Brain-Computer Interface (BCI) based on EEG data with the help of machine learning algorithms, to predict brain activity.
 | [Leaffliction](https://github.com/swangarch/leaffliction) |Python| A computer vision project using CNNs to identify leaf diseases across two species and eight disease types, achieving 95-98% accuracy for early detection in precision agriculture. |
