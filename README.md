@@ -6,7 +6,7 @@ Former architect turned software developer. Currently, I’m studying at **Écol
 
 My interests include:
 - **Data & Machine Learning & AI**
-- **Full stack web developement**
+- **Software developement**
 ---
 
 ## Tech Stack
@@ -54,12 +54,9 @@ My interests include:
 | [Webserv](https://github.com/swangarch/42webserv) | C++| Lightweight HTTP server built from scratch: socket programming, HTTP parsing, CGI support |
 |[Inception-of-things](https://github.com/swangarch/inception-of-things)|bash, vagrantfile, yml|A project exploring Kubernetes fundamentals with Vagrant, K3s, K3d, and ArgoCD.|
 | Inception | Dockerfile, shell | Containerized environment setup with Docker Compose — NGINX, WordPress, and MariaDB |
-| Net practice || Interactive networking exercise — simulating IP addressing and routing logic |
 | [Cub3D](https://github.com/swangarch/cub3d) |C| 3D raycasting engine (Wolfenstein-style) — rendering 3D environments using 2D projection |
 | [minishell](https://github.com/swangarch/minishell) |C| A Unix-like shell: command parsing, built-ins, process management, redirections, signals |
-| [Philosopher](https://github.com/swangarch/philo) |C| Dining philosophers simulation — multithreading, synchronization, and deadlock prevention |
-| [so_long](https://github.com/swangarch/so_long) |C| 2D maze game built with MiniLibX — focuses on movement, collision, and map logic |
-| [push_swap](https://github.com/swangarch/push_swap) |C| Algorithm challenge — sorting a stack with the minimum number of operations |
+
 
 ### AI & Machine learning
 
@@ -70,11 +67,7 @@ My interests include:
 |[TotalPerspectiveVortex](https://github.com/swangarch/total-perspective-vortex)|Python| An Brain-Computer Interface (BCI) based on EEG data with the help of machine learning algorithms, to predict brain activity.
 | [Leaffliction](https://github.com/swangarch/leaffliction) |Python| A computer vision project using CNNs to identify leaf diseases across two species and eight disease types, achieving 95-98% accuracy for early detection in precision agriculture. |
 | [NanoAgent-CLI](https://github.com/swangarch/nanoAgent-CLI) |Python| A minimalist Command Line Interface coding agent in less than 100 lines of python code. |
-| [Convolutional Neural Network](https://github.com/swangarch/convolutional_neural_network) |Python| Implemented a CNN with Pytorch — tested on multiple datasets |
 | [Multilayer Perceptron](https://github.com/swangarch/multilayer_perceptron) |Python| Built a fully-connected neural network from scratch using only Numpy — implemented feedforward, backpropagation, and gradient descent. |
-| [Logistic Regression & Data Science](https://github.com/swangarch/DSLR) |Python| Implemented binary classification with one-vs-all strategy using logistic regression — explored sigmoid, cross-entropy loss, and decision boundaries |
-| [Linear Regression](https://github.com/swangarch/linear_regression) |Rust| Implemented linear regression for numerical prediction tasks — focused on model fitting, loss function, and gradient descent concepts. |
-| [Piscine python for data science](https://github.com/swangarch/python_piscine) |Python| Python foundation for data science, including basic syntax, Numpy, Matplotlib and Pandas|
 
 
 ## Certifications
@@ -85,15 +78,6 @@ My interests include:
 | **Python for Everybody**	| Python fundamentals, data handling, web scraping, and basic databases	| **Coursera** |
 | **C for Everyone** |	C basics, pointers & memory, compiling and debugging | **Coursera** |
 | **AWS Certified AI Practitioner**	| Fundamentals of artificial intelligence, types of AI and ML models, core concepts such as supervised/unsupervised learning, and AWS AI services and applications |	**AWS** |
-
-## Bootcamp & workshop
-
-| Experience | Description |
-|----------|-------------|
-| **XRPL development workshop** | Learned to develop on the XRP Ledger, using smart contracts to issue tokens and implement basic swap functions. |
-| **42 piscine pro AI** | Built a multilayer perceptron from scratch with NumPy, and used PyTorch to create a CNN for MNIST digit classification. |
-| **Hackathon Craft AI** | Participated in a team hackathon focused on building creative AI-driven applications. |
-| **42 Machine learning Bootcamp** | Developed solid foundations in machine learning theory, linear algebra, and statistical understanding through intensive hands-on practice. |
 
 ---
 
